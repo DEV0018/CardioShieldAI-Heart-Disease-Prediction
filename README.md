@@ -197,6 +197,4 @@ streamlit run app.py
 **B.E. Artificial Intelligence and Machine Learning**
 **B.M.S College of Engineering**
 
----
 
-## ⭐ If you found this project useful, consider giving it a star!
